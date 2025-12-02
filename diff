@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Shri Shorthand (Jain Lipi)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.7;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            max-width: 900px;
+            margin: auto;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #222;
+        }
+        p, li {
+            color: #444;
+            font-size: 16px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+<h1>Privacy Policy</h1>
+<p><strong>Last Updated:</strong> 01 December 2025</p>
+
+<p>Welcome to <strong>Shri Shorthand (Jain Lipi)</strong>.  
+This Privacy Policy explains how our application (“App”, “we”, “our”, “us”) handles user information.</p>
+
+<p>By using the App, you consent to this Privacy Policy.</p>
+
+<hr>
+
+<h2>1. Information We Do Not Collect</h2>
+<p><strong>Shri Shorthand (Jain Lipi)</strong> does <strong>NOT</strong> collect, store, or share any personal information from users.</p>
+
+<ul>
+    <li>No name, phone number, or email</li>
+    <li>No account creation or login required</li>
+    <li>No contacts or messages</li>
+    <li>No precise location</li>
+    <li>No camera photos or personal files</li>
+</ul>
+
+<p>The app requires internet to load content.</p>
+
+<hr>
+
+<h2>2. Third-Party Services – Google AdMob</h2>
+<p>Our app uses <strong>Google AdMob</strong> to show Banner Ads, Interstitial Ads, and Rewarded Ads.</p>
+
+<p>AdMob may automatically collect certain data for ad delivery and measurement.  
+This data is collected by Google and <strong>not</strong> by us.</p>
+
+<h3>Data that Google AdMob may collect:</h3>
+<ul>
+    <li>Advertising ID (AAID)</li>
+    <li>IP address (approximate location, not GPS)</li>
+    <li>Device information (model, OS version, hardware)</li>
+    <li>App usage interactions (ad views, clicks)</li>
+    <li>Crash information</li>
+</ul>
+
+<p>Google may use cookies or similar technologies to serve personalized or non-personalized ads based on your region.</p>
+
+<p>Learn more at:  
+<a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></p>
+
+<hr>
+
+<h2>3. Types of Ads Used</h2>
+<p>Our app displays the following ad formats through Google AdMob:</p>
+
+<ul>
+    <li><strong>Banner Ads</strong></li>
+    <li><strong>Interstitial Ads</strong></li>
+    <li><strong>Rewarded Ads</strong> (User can watch the ad to unlock content)</li>
+</ul>
+
+<p>Ads help support the development and free availability of the application.</p>
+
+<hr>
+
+<h2>4. Permissions Used by the App</h2>
+
+<p>Shri Shorthand (Jain Lipi) uses a few basic permissions only for core app functionality:</p>
+
+<ul>
+    <li><strong>INTERNET</strong> – to load ads and online content</li>
+    <li><strong>ACCESS_NETWORK_STATE</strong> – to check network status</li>
+    <li><strong>READ/WRITE STORAGE</strong> – only to access or save media files used within the app</li>
+    <li><strong>AUDIO/VIDEO</strong> – used only for audio or video playback (not recorded or uploaded)</li>
+</ul>
+
+<p>We do <strong>NOT</strong> collect or upload any audio, video, or storage data.</p>
+
+<hr>
+
+<h2>5. Children's Privacy</h2>
+<p>We do not knowingly collect personal data from children under 13.  
+If you believe your child provided data through third-party ads, please contact us immediately.</p>
+
+<hr>
+
+<h2>6. Data Security</h2>
+<p>We do not collect any user data, therefore no information is stored on our servers.  
+All advertising data is processed securely by Google AdMob.</p>
+
+<hr>
+
+<h2>7. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time.  
+Any changes will be posted here with an updated “Last Updated” date.</p>
+
+<hr>
+
+<h2>8. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, feel free to contact us at:</p>
+
+<p><strong>Email:</strong> shreeeducationclasses@gmail.com</p>
+
+<div class="footer">
+    <p>© 2025 Shri Shorthand (Jain Lipi). All rights reserved.</p>
+</div>
+
+</div>
+</body>
+</html>
